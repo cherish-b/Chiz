@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JS Example</title>
+	
+    <script>
+      function myFunction() {
+        var image = document.getElementById("welcome");
+        //image.src = "BYERIRI.gif";  
+		if (image.src == "file:///C:/Users/Girls%20Who%20Code/Desktop/BYERIRI.gif") {
+			image.src = "file:///C:/Users/Girls%20Who%20Code/Desktop/HIRIRI.gif";
+		}
+		else{
+		image.src = "file:///C:/Users/Girls%20Who%20Code/Desktop/BYERIRI.gif"; 
+		}
+      }
+    </script>
+  </head>
+  <body>
+    <img src="HIRIRI.gif" alt="Rhianna" style="width:2000px;height:1000px;" id= "welcome"></img> <br>
+    <button id="btn" onclick="myFunction()">Click me!</button>
+
+  </body>
+</html>
+

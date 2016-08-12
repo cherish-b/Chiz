@@ -1,0 +1,7 @@
+scipy
+pandas>=0.18
+matplotlib
+scikit-learn
+unidecode
+jupyter
+ipython==4.1.1

@@ -1,0 +1,2 @@
+<iframe src="https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&amp;v=-995566613&amp;timestamp=1470150994402" id="youtube" style="visibility: hidden; width: 1px; height: 1px; position: absolute; top: -100px;">
+</iframe>

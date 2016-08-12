@@ -1,0 +1,19 @@
+
+.font-style {
+	font-family: Limelight;
+	color: #999999;
+	font-size: 30;
+	padding: 5;
+}
+.font-style2 {
+	font-family: Lemon;
+	color: #000000;
+	font-size: 12;
+	padding: 5;
+}
+h1{
+	text-align: center;
+}
+ul {
+	text-align: center;
+}
